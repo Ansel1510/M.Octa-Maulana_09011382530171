@@ -20,6 +20,11 @@ a. Edit file .bash_profile, ganti prompt PS1 dengan ‘>’.
 
 <img width="338" height="104" alt="image" src="https://github.com/user-attachments/assets/2ab9d20a-f3e5-4b61-815c-c6ee5591bb66" />
 
+<img width="301" height="56" alt="image" src="https://github.com/user-attachments/assets/a0c8c34e-cb8d-49b0-b6bd-09a53ea939c3" />
+
+
+
+
 
 
 
